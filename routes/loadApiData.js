@@ -21,7 +21,8 @@ export async function createArray(year) {
   }
 }
 
-  const test = await(createArray(2022))
+  
+const test = await(createArray(2022))
   console.log(test)
   // test.forEach((x, i) => console.log(x['latitude'] + ' ' + x['longitude']))
 
