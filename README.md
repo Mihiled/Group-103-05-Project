@@ -10,6 +10,8 @@
 
 ## The visualiations that we used was leaflet a way to map the locations for the longitude and latitude the API has given to pinpoint the exact location on the map and give details of each point ##
 
+#By having the exact coordinates it will make it easier for users accessing the app"
+
 ## We used the CSS flexbox to map the layout of the website ##
 
 ## The website was displaying the trash points in Prince George's County so they can get a visualization of where trash is, so they can get an understanding where trash is most likely is at ##
