@@ -51,6 +51,7 @@ html {
     flex: 1;
   }
   
+  
   form {
     accent-color: hsla(169, 66%, 32%, 0.482);
   }
@@ -61,7 +62,7 @@ html {
     display: block;
     width: 750px;
     height: 750px;
-    border: 2px groove rgb(99,99,99);
+    border: 2px groove rgb(243, 176, 176);
     /* margin-bottom: 1rem; */
     align-items: center;
   }

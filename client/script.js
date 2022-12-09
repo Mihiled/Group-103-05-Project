@@ -53,6 +53,7 @@ async function createArray(year) {
   }
 }
 
+
 async function mainEvent() {
   const pageMap = initMap();
   const submit = document.querySelector('#submit_info');
@@ -70,4 +71,4 @@ async function mainEvent() {
     }
   });
 }
-document.addEventListener('DOMContentLoaded', async () => mainEvent());
+document,addEventListener('DOMContentLoaded', async () => mainEvent());
